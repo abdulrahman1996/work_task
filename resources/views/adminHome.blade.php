@@ -7,6 +7,7 @@
         <div class="row">
             <div class="col-lg-12 text-center">
                 <h1 class="mt-5">Hello Admin</h1>
+
                 <p class="lead">TASK</p>
             </div>
         </div>
